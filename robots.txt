@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hatrik9999.github.io/fortworthchimneysweeps-sitemaps/sitemap_index.xml
+Sitemap: https://hatrik9999.github.io/fortworthchimneysweeps-sitemaps/sitemap-main.xml
+Sitemap: https://hatrik9999.github.io/fortworthchimneysweeps-sitemaps/sitemap-locations.xml
