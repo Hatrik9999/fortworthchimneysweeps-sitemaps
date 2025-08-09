@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hatrik9999.github.io/fortworthchimneysweeps-sitemaps/sitemap_index.xml
