@@ -1,53 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/fort-worth</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/lake-worth</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/saginaw</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/arlington-heights</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/roanoke</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/ridglea</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/azle</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/aledo</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
+  <url><loc>https://www.fortworthchimneysweeps.com/fort-worth</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/lake-worth</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/saginaw</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/arlington-heights</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/roanoke</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/ridglea</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/azle</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/aledo</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- add more cities here as you publish them -->
 </urlset>
