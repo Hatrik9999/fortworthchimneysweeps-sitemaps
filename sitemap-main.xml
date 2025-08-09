@@ -1,94 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.fortworthchimneysweeps.com/</loc><lastmod>2025-08-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
-    <!-- Homepage (1.0) -->
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
+  <!-- Core service pages -->
+  <url><loc>https://www.fortworthchimneysweeps.com/chimney-cleaning</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/dryer-vent-cleaning</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/chimney-inspections</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/fireplace-inspections</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/chimney-repairs</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/fireplace-repairs</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/chimney-caps</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/chase-covers</loc><lastmod>2025-08-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-    <!-- Core service pages (0.8) -->
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/chimney-cleaning</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/dryer-vent-cleaning</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/chimney-inspections</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/fireplace-inspections</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/chimney-repairs</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/fireplace-repairs</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/chimney-caps</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/chase-covers</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Company pages -->
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/about</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/blog</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/faq</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/privacy-policy</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    <url>
-        <loc>https://www.fortworthchimneysweeps.com/terms</loc>
-        <lastmod>2025-08-09</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
+  <!-- Company/info -->
+  <url><loc>https://www.fortworthchimneysweeps.com/about</loc><lastmod>2025-08-09</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/blog</loc><lastmod>2025-08-09</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/faq</loc><lastmod>2025-08-09</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/privacy-policy</loc><lastmod>2025-08-09</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://www.fortworthchimneysweeps.com/terms</loc><lastmod>2025-08-09</lastmod><changefreq>yearly</changefreq><priority>0.2</priority></url>
 </urlset>
