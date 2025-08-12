@@ -1,3 +1,4 @@
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -42,10 +43,10 @@
       ]
     },
     {
-      "@type": ["LocalBusiness", "HomeAndConstructionBusiness", "ProfessionalService"],
+      "@type": ["LocalBusiness","HomeAndConstructionBusiness","ProfessionalService"],
       "@id": "https://www.fortworthchimneysweeps.com/#identity",
       "name": "Fort Worth Chimney Sweeps",
-      "alternateName": ["Fort Worth Chimney Sweep", "Chimney Sweeps Fort Worth"],
+      "alternateName": ["Fort Worth Chimney Sweep","Chimney Sweeps Fort Worth"],
       "url": "https://www.fortworthchimneysweeps.com/",
       "telephone": "+1-817-205-2072",
       "priceRange": "$$",
@@ -83,7 +84,7 @@
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
-          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
           "opens": "08:00",
           "closes": "18:00"
         }
@@ -153,3 +154,4 @@
     }
   ]
 }
+</script>
