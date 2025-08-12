@@ -1,1 +1,19 @@
-
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"@id": "https://www.fortworthchimneysweeps.com/#org",
+"name": "Fort Worth Chimney Sweeps",
+"url": "https://www.fortworthchimneysweeps.com/",
+"logo": "https://lh3.googleusercontent.com/1atlSlJEDQMxs0SF2tNrJGl1dTOHCNRE-GDlNknrm6UEpXk4J5PPzG5uwVIKcTtOgYEu5KJz7mAEjvF9vnUpnwCK4aMzyYIdSVgBZPXc_6aoHZg9T_7k8RuF8IqrxTLaJ6CX0DelZB86ZM5bOTlUYPN8_uQEZwA0k8BVm3SK5HQvXKKw3mNzTQ=w1280",
+"telephone": "+1-817-205-2072",
+"sameAs": [
+"https://www.fortworthchimneysweeps.com/"
+],
+"contactPoint": [{
+"@type": "ContactPoint",
+"contactType": "customer service",
+"telephone": "+1-817-205-2072",
+"areaServed": "US",
+"availableLanguage": ["English","Spanish"]
+}]
+}
