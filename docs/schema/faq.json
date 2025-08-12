@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.fortworthchimneysweeps.com/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I have my chimney cleaned?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At least once a year or every 50 fires—whichever comes first. If you burn daily in winter or notice soot or odors, schedule sooner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What signs mean I need a chimney inspection or cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoky odors, black residue (creosote), poor fireplace draft, visible cracks, or debris in the firebox are common signs. An annual level-2 inspection is recommended after any changes or a chimney fire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you service dryer vents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We clean dryer vents to reduce fire risk and improve dryer performance. Most homes benefit from yearly cleaning, or sooner if drying times increase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will chimney cleaning be messy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. We use protective floor coverings and HEPA vacs to contain dust and soot. We leave your home as clean—or cleaner—than we found it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you service gas fireplaces and gas logs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we inspect and clean gas fireplaces and verify venting and safety. Gas logs must be brand new for installation per company policy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What areas do you serve around Fort Worth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fort Worth, Saginaw, LAKE WORTH, Watauga, Keller, ROANOKE, North Richland Hills, Haslet, Azle, and Weatherford."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a standard chimney sweep take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most cleanings take 60–90 minutes. If repairs or a level-2 inspection are needed, allow extra time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you help with smoke smell or poor draft?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We check for creosote buildup, cap or damper issues, pressure problems, and chimney height. We recommend the fix based on what we find."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I schedule service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call 817-205-2072 or use the contact form on our website to request an appointment or a free quote."
+      }
+    }
+  ]
+}
