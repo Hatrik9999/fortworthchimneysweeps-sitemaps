@@ -1,7 +1,15 @@
 {
-"@context": "https://schema.org",
-"@type": "WebSite",
-"@id": "https://www.fortworthchimneysweeps.com/#website",
-"name": "Fort Worth Chimney Sweeps",
-"url": "https://www.fortworthchimneysweeps.com/"
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.fortworthchimneysweeps.com/#website",
+  "url": "https://www.fortworthchimneysweeps.com/",
+  "name": "Fort Worth Chimney Sweeps",
+  "publisher": {
+    "@id": "https://www.fortworthchimneysweeps.com/#org"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.fortworthchimneysweeps.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
 }
