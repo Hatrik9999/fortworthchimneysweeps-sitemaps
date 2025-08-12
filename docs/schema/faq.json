@@ -75,5 +75,6 @@
         "text": "Call 817-205-2072 or use the contact form on our website to request an appointment or a free quote."
       }
     }
-  ]
+  ],
+  "isPartOf": { "@id": "https://www.fortworthchimneysweeps.com/#website" }
 }
