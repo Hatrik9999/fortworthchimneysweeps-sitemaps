@@ -1,0 +1,75 @@
+{
+"@context": "https://schema.org",
+"@type": ["LocalBusiness","HomeAndConstructionBusiness","ProfessionalService"],
+"@id": "https://www.fortworthchimneysweeps.com/#identity",
+"name": "Fort Worth Chimney Sweeps",
+"alternateName": ["Fort Worth Chimney Sweep","Chimney Sweeps Fort Worth"],
+"url": "https://www.fortworthchimneysweeps.com/",
+"telephone": "+1-817-205-2072",
+"priceRange": "$$",
+"description": "Fort Worth Chimney Sweeps provides professional chimney cleaning, inspections, repairs, and dryer vent cleaning throughout Fort Worth and nearby communities.",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "820 Mustang Drive",
+"addressLocality": "Saginaw",
+"addressRegion": "TX",
+"postalCode": "76179",
+"addressCountry": "US"
+},
+"areaServed": [
+{"@type":"City","name":"Fort Worth"},
+{"@type":"City","name":"Saginaw"},
+{"@type":"City","name":"Lake Worth"},
+{"@type":"City","name":"Watauga"},
+{"@type":"City","name":"Keller"},
+{"@type":"City","name":"Roanoke"},
+{"@type":"City","name":"North Richland Hills"},
+{"@type":"City","name":"Haslet"},
+{"@type":"City","name":"Azle"},
+{"@type":"City","name":"Weatherford"}
+],
+"hasMap": "https://www.google.com/maps/search/?api=1&query=Fort+Worth+Chimney+Sweeps+820+Mustang+Drive+Saginaw+TX+76179",
+"image": [
+"https://lh5.googleusercontent.com/0hetLN-wLKkPmis6tvcy57ZdfnijW_b_Dcddra9sFRmvm9RYl7kOLx2WveqsJWMB7SxsObSHoKW7UhPjojF0TC651tQB28EWmUAV_joytSM50TAP-qdLtnQKd_s29sJRL17f_NiW7ZCk9rxS4aeIPfdC8RhhYjHS2qsIsofDfR9PoPAy8P-bKA=w1280",
+"https://lh5.googleusercontent.com/OXOpcTuCCeIOz6RpnKTcS6p_TwH8Iu-GBFVwrt3RvFaigtWVUTeGYe6xCa7dSGXezPa59H6Vgrlh7P4ndRDfpECg9y4egNr98MvjXFEl0ut30unghbs2qGqoJtjrc4_w5OmvG4VGebxxPg3jDk20y7KjoeFOq45dJqXSmBc-2bGUEsp_qaYUdA=w1280"
+],
+"logo": "https://lh3.googleusercontent.com/1atlSlJEDQMxs0SF2tNrJGl1dTOHCNRE-GDlNknrm6UEpXk4J5PPzG5uwVIKcTtOgYEu5KJz7mAEjvF9vnUpnwCK4aMzyYIdSVgBZPXc_6aoHZg9T_7k8RuF8IqrxTLaJ6CX0DelZB86ZM5bOTlUYPN8_uQEZwA0k8BVm3SK5HQvXKKw3mNzTQ=w1280",
+"sameAs": [
+"https://share.google/nWkXPJGWDOsL7AJ0u",
+"https://www.fortworthchimneysweeps.com/"
+],
+"contactPoint": [{
+"@type": "ContactPoint",
+"contactType": "customer service",
+"telephone": "+1-817-205-2072",
+"areaServed": "US",
+"availableLanguage": ["English","Spanish"]
+}],
+"knowsAbout": [
+"chimney cleaning",
+"chimney sweep",
+"chimney inspections",
+"chimney repairs",
+"chimney caps",
+"masonry chimney repair",
+"fireplace inspection",
+"smoke and odor problems",
+"dryer vent cleaning",
+"creosote removal"
+],
+"keywords": "Fort Worth chimney sweeps, chimney cleaning Fort Worth, chimney repair Fort Worth, chimney inspections, dryer vent cleaning Fort Worth",
+"hasOfferCatalog": {
+"@type": "OfferCatalog",
+"name": "Chimney and Dryer Vent Services",
+"itemListElement": [
+{ "@type": "Offer", "name": "Chimney cleaning",
+"itemOffered": { "@type": "Service", "serviceType": "Chimney cleaning", "areaServed": "Fort Worth, TX" } },
+{ "@type": "Offer", "name": "Chimney repairs and rebuilds",
+"itemOffered": { "@type": "Service", "serviceType": "Chimney repairs and rebuilds", "areaServed": "Fort Worth, TX" } },
+{ "@type": "Offer", "name": "Fireplace inspections and maintenance",
+"itemOffered": { "@type": "Service", "serviceType": "Fireplace inspections and maintenance", "areaServed": "Fort Worth, TX" } },
+{ "@type": "Offer", "name": "Dryer vent cleaning",
+"itemOffered": { "@type": "Service", "serviceType": "Dryer vent cleaning", "areaServed": "Fort Worth, TX" } }
+]
+}
+}
