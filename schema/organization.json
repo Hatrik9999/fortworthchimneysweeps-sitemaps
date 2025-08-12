@@ -1,21 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Organization Schema</title>
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://www.fortworthchimneysweeps.com/#organization",
   "name": "Fort Worth Chimney Sweeps",
   "url": "https://www.fortworthchimneysweeps.com/",
-  "logo": "https://www.fortworthchimneysweeps.com/images/logo.png",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+1-817-205-2072",
-    "contactType": "Customer Service",
-    "areaServed": "US",
-    "availableLanguage": ["English"]
-  },
+  "logo": "https://www.fortworthchimneysweeps.com/logo.png",
   "sameAs": [
-    "https://www.facebook.com/fortworthchimneysweeps",
-    "https://www.yelp.com/biz/fort-worth-chimney-sweeps-fort-worth",
-    "https://www.instagram.com/fortworthchimneysweeps"
+    "https://www.facebook.com/FortWorthChimneySweeps",
+    "https://www.instagram.com/FortWorthChimneySweeps"
   ]
 }
-
+</script>
+</head>
+<body>
+<p>Organization Schema for SEO testing</p>
+</body>
+</html>
