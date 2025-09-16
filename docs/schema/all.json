@@ -5,7 +5,7 @@
       "@type": "Organization",
       "@id": "https://www.fortworthchimneysweeps.com/#org",
       "name": "Fort Worth Chimney Sweeps",
-      "url": "https://www.fortworthchimneysweeps.com/home-2",
+      "url": "https://www.fortworthchimneysweeps.com/",
       "logo": "https://lh3.googleusercontent.com/1atlSlJEDQMxs0SF2tNrJGl1dTOHCNRE-GDlNknrm6UEpXk4J5PPzG5uwVIKcTtOgYEu5KJz7mAEjvF9vnUpnwCK4aMzyYIdSVgBZPXc_6aoHZg9T_7k8RuF8IqrxTLaJ6CX0DelZB86ZM5bOTlUYPN8_uQEZwA0k8BVm3SK5HQvXKKw3mNzTQ=w1280",
       "image": [
         "https://lh5.googleusercontent.com/0hetLN-wLKkPmis6tvcy57ZdfnijW_b_Dcddra9sFRmvm9RYl7kOLx2WveqsJWMB7SxsObSHoKW7UhPjojF0TC651tQB28EWmUAV_joytSM50TAP-qdLtnQKd_s29sJRL17f_NiW7ZCk9rxS4aeIPfdC8RhhYjHS2qsIsofDfR9PoPAy8P-bKA=w1280",
@@ -27,6 +27,15 @@
         "https://www.instagram.com/fortworthchimneysweeps/",
         "https://www.pinterest.com/FortWorthSweeper",
         "https://www.fortworthchimneysweeps.com/"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "telephone": "+1-817-205-2072",
+          "areaServed": "US",
+          "availableLanguage": ["English", "Spanish"]
+        }
       ]
     },
     {
@@ -34,12 +43,12 @@
       "@id": "https://www.fortworthchimneysweeps.com/#identity",
       "name": "Fort Worth Chimney Sweeps",
       "alternateName": ["Fort Worth Chimney Sweep", "Chimney Sweeps Fort Worth"],
-      "url": "https://www.fortworthchimneysweeps.com/home-2",
+      "url": "https://www.fortworthchimneysweeps.com/",
       "telephone": "+1-817-205-2072",
       "priceRange": "$$",
       "paymentAccepted": "Cash, Credit Card, Debit Card",
       "currenciesAccepted": "USD",
-      "description": "Fort Worth Chimney Sweeps provides expert chimney sweeping, inspections, repairs, waterproofing, and dryer vent cleaning to keep homes safe and efficient throughout Fort Worth and nearby communities.",
+      "description": "Fort Worth Chimney Sweeps provides trusted chimney cleaning, inspections, repairs, cap installations, crown repairs, smoke chamber parging, water sealing, animal removal, and expert dryer vent cleaning services across Fort Worth and surrounding cities since 1991.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "820 Mustang Drive",
@@ -54,8 +63,20 @@
         "longitude": -97.37651922469968
       },
       "hasMap": "https://www.google.com/maps/search/?api=1&query=Fort+Worth+Chimney+Sweeps+820+Mustang+Drive+Saginaw+TX+76179",
+      "image": [
+        "https://lh5.googleusercontent.com/0hetLN-wLKkPmis6tvcy57ZdfnijW_b_Dcddra9sFRmvm9RYl7kOLx2WveqsJWMB7SxsObSHoKW7UhPjojF0TC651tQB28EWmUAV_joytSM50TAP-qdLtnQKd_s29sJRL17f_NiW7ZCk9rxS4aeIPfdC8RhhYjHS2qsIsofDfR9PoPAy8P-bKA=w1280",
+        "https://lh5.googleusercontent.com/OXOpcTuCCeIOz6RpnKTcS6p_TwH8Iu-GBFVwrt3RvFaigtWVUTeGYe6xCa7dSGXezPa59H6Vgrlh7P4ndRDfpECg9y4egNr98MvjXFEl0ut30unghbs2qGqoJtjrc4_w5OmvG4VGebxxPg3jDk20y7KjoeFOq45dJqXSmBc-2bGUEsp_qaYUdA=w1280"
+      ],
       "logo": "https://lh3.googleusercontent.com/1atlSlJEDQMxs0SF2tNrJGl1dTOHCNRE-GDlNknrm6UEpXk4J5PPzG5uwVIKcTtOgYEu5KJz7mAEjvF9vnUpnwCK4aMzyYIdSVgBZPXc_6aoHZg9T_7k8RuF8IqrxTLaJ6CX0DelZB86ZM5bOTlUYPN8_uQEZwA0k8BVm3SK5HQvXKKw3mNzTQ=w1280",
       "parentOrganization": { "@id": "https://www.fortworthchimneysweeps.com/#org" },
+      "sameAs": [
+        "https://www.facebook.com/FortWorthSweeper/",
+        "https://www.youtube.com/@Fortworthchimneysweeps",
+        "https://www.linkedin.com/company/fort-worth-chimney-sweeps",
+        "https://www.instagram.com/fortworthchimneysweeps/",
+        "https://www.pinterest.com/FortWorthSweeper",
+        "https://www.fortworthchimneysweeps.com/"
+      ],
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -75,82 +96,57 @@
         "masonry chimney repair",
         "refractory panel replacements",
         "smoke chamber parging",
-        "water sealing",
-        "storm damage chimney repair",
-        "fireplace safety inspections"
+        "water sealing"
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Chimney & Dryer Vent Services",
         "itemListElement": [
-          { "@type": "Offer", "name": "Chimney cleaning", "itemOffered": { "@type": "Service", "serviceType": "Chimney cleaning", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Chimney sweeping", "itemOffered": { "@type": "Service", "serviceType": "Chimney sweeping", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Chimney inspections", "itemOffered": { "@type": "Service", "serviceType": "Chimney inspections", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Chimney repairs", "itemOffered": { "@type": "Service", "serviceType": "Chimney repairs", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Dryer vent cleaning", "itemOffered": { "@type": "Service", "serviceType": "Dryer vent cleaning", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Chimney crown repair", "itemOffered": { "@type": "Service", "serviceType": "Chimney crown repair", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Chimney caps", "itemOffered": { "@type": "Service", "serviceType": "Chimney caps", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Dryer vent cleaning", "itemOffered": { "@type": "Service", "serviceType": "Dryer vent cleaning", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Fireplace inspections", "itemOffered": { "@type": "Service", "serviceType": "Fireplace inspections", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Masonry chimney repair", "itemOffered": { "@type": "Service", "serviceType": "Masonry chimney repair", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Smoke chamber parging", "itemOffered": { "@type": "Service", "serviceType": "Smoke chamber parging", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Refractory panel replacements", "itemOffered": { "@type": "Service", "serviceType": "Refractory panel replacements", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Water sealing & waterproofing", "itemOffered": { "@type": "Service", "serviceType": "Waterproofing", "areaServed": "Fort Worth TX" } }
+          { "@type": "Offer", "name": "Smoke chamber parging", "itemOffered": { "@type": "Service", "serviceType": "Smoke chamber parging", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Water sealing", "itemOffered": { "@type": "Service", "serviceType": "Water sealing", "areaServed": "Fort Worth TX" } }
         ]
       },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "reviewCount": "35"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": { "@type": "Person", "name": "Chris E." },
-          "reviewBody": "Technician immediately identified the problem, explained clearly, and fixed the same day. Excellent service and fair pricing.",
-          "reviewRating": { "@type": "Rating", "ratingValue": "5" }
-        },
-        {
-          "@type": "Review",
-          "author": { "@type": "Person", "name": "Joey V." },
-          "reviewBody": "Fort Worth Chimney Sweeps did an excellent job preparing our fireplace for winter. Prompt, thorough, and professional.",
-          "reviewRating": { "@type": "Rating", "ratingValue": "5" }
-        }
+      "areaServed": [
+        { "@type": "City", "name": "Fort Worth TX" },
+        { "@type": "City", "name": "Saginaw TX" },
+        { "@type": "City", "name": "Lake Worth TX" },
+        { "@type": "City", "name": "Roanoke TX" },
+        { "@type": "City", "name": "Arlington Heights TX" },
+        { "@type": "City", "name": "Tanglewood TX" },
+        { "@type": "City", "name": "Watauga TX" },
+        { "@type": "City", "name": "Weatherford TX" },
+        { "@type": "City", "name": "Eagle Mountain Lake TX" },
+        { "@type": "City", "name": "Benbrook TX" },
+        { "@type": "City", "name": "Azle TX" },
+        { "@type": "City", "name": "Lakeside TX" },
+        { "@type": "City", "name": "Willow Park TX" },
+        { "@type": "City", "name": "Hudson Oaks TX" },
+        { "@type": "City", "name": "White Settlement TX" },
+        { "@type": "City", "name": "Westover Hills TX" },
+        { "@type": "City", "name": "Western Hills TX" },
+        { "@type": "City", "name": "Summerfields TX" },
+        { "@type": "City", "name": "River Oaks TX" },
+        { "@type": "City", "name": "North Richland Hills TX" },
+        { "@type": "City", "name": "Keller TX" },
+        { "@type": "City", "name": "Hurst TX" }
       ],
       "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.fortworthchimneysweeps.com/home-2" }
     },
     {
       "@type": "WebSite",
       "@id": "https://www.fortworthchimneysweeps.com/#website",
-      "url": "https://www.fortworthchimneysweeps.com/home-2",
+      "url": "https://www.fortworthchimneysweeps.com/",
       "name": "Fort Worth Chimney Sweeps",
       "publisher": { "@id": "https://www.fortworthchimneysweeps.com/#org" }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://www.fortworthchimneysweeps.com/home-2#breadcrumb",
-      "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.fortworthchimneysweeps.com/home-2" },
-        { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.fortworthchimneysweeps.com/services" },
-        { "@type": "ListItem", "position": 3, "name": "Contact", "item": "https://www.fortworthchimneysweeps.com/contact-us" }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.fortworthchimneysweeps.com/home-2#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How often should I have my chimney cleaned in Fort Worth?",
-          "acceptedAnswer": { "@type": "Answer", "text": "We recommend annual chimney cleaning in Fort Worth to prevent creosote buildup and reduce fire risks." }
-        },
-        {
-          "@type": "Question",
-          "name": "Why is dryer vent cleaning important?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Clogged dryer vents restrict airflow, cause longer drying times, increase energy bills, and create a leading fire hazard. Annual cleaning keeps your home safe." }
-        },
-        {
-          "@type": "Question",
-          "name": "Do you handle storm damage repairs for chimneys?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Yes, we specialize in storm-related chimney crown, cap, and waterproofing repairs for Fort Worth and Eagle Mountain Lake homes." }
-        }
-      ]
     }
   ]
 }
