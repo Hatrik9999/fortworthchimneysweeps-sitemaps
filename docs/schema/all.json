@@ -46,9 +46,9 @@
       "url": "https://www.fortworthchimneysweeps.com/",
       "telephone": "+1-817-205-2072",
       "priceRange": "$$",
-      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "paymentAccepted": "Cash, Credit Card, Debit Card, Check",
       "currenciesAccepted": "USD",
-      "description": "Fort Worth Chimney Sweeps provides trusted chimney cleaning, inspections, repairs, cap installations, crown repairs, smoke chamber parging, water sealing, animal removal, and expert dryer vent cleaning services across Fort Worth and surrounding cities since 1991.",
+      "description": "Fort Worth Chimney Sweeps has been keeping homes safe and fireplaces efficient since 1991. We provide trusted chimney cleaning, inspections, repairs, cap and crown services, smoke chamber parging, animal removal, water sealing, and expert dryer vent cleaning across Fort Worth and surrounding cities.",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "820 Mustang Drive",
@@ -62,7 +62,7 @@
         "latitude": 32.85343460901485,
         "longitude": -97.37651922469968
       },
-      "hasMap": "https://www.google.com/maps/search/?api=1&query=Fort+Worth+Chimney+Sweeps+820+Mustang+Drive+Saginaw+TX+76179",
+      "hasMap": "https://maps.app.goo.gl/adiLWNsF2mEzxHpR8",
       "image": [
         "https://lh5.googleusercontent.com/0hetLN-wLKkPmis6tvcy57ZdfnijW_b_Dcddra9sFRmvm9RYl7kOLx2WveqsJWMB7SxsObSHoKW7UhPjojF0TC651tQB28EWmUAV_joytSM50TAP-qdLtnQKd_s29sJRL17f_NiW7ZCk9rxS4aeIPfdC8RhhYjHS2qsIsofDfR9PoPAy8P-bKA=w1280",
         "https://lh5.googleusercontent.com/OXOpcTuCCeIOz6RpnKTcS6p_TwH8Iu-GBFVwrt3RvFaigtWVUTeGYe6xCa7dSGXezPa59H6Vgrlh7P4ndRDfpECg9y4egNr98MvjXFEl0ut30unghbs2qGqoJtjrc4_w5OmvG4VGebxxPg3jDk20y7KjoeFOq45dJqXSmBc-2bGUEsp_qaYUdA=w1280"
@@ -80,8 +80,14 @@
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
-          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-          "opens": "08:00",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "10:00",
           "closes": "18:00"
         }
       ],
@@ -106,11 +112,8 @@
           { "@type": "Offer", "name": "Chimney inspections", "itemOffered": { "@type": "Service", "serviceType": "Chimney inspections", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Chimney repairs", "itemOffered": { "@type": "Service", "serviceType": "Chimney repairs", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Chimney crown repair", "itemOffered": { "@type": "Service", "serviceType": "Chimney crown repair", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Chimney caps", "itemOffered": { "@type": "Service", "serviceType": "Chimney caps", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Dryer vent cleaning", "itemOffered": { "@type": "Service", "serviceType": "Dryer vent cleaning", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Fireplace inspections", "itemOffered": { "@type": "Service", "serviceType": "Fireplace inspections", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Masonry chimney repair", "itemOffered": { "@type": "Service", "serviceType": "Masonry chimney repair", "areaServed": "Fort Worth TX" } },
-          { "@type": "Offer", "name": "Refractory panel replacements", "itemOffered": { "@type": "Service", "serviceType": "Refractory panel replacements", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Chimney cap installation", "itemOffered": { "@type": "Service", "serviceType": "Chimney cap installation", "areaServed": "Fort Worth TX" } },
+          { "@type": "Offer", "name": "Dryer vent cleaning", "itemOffered": { "@type": "Service", "serviceType": "Dryer vent cleaning", "areaServed": "Fort Worth TX", "description": "Professional dryer vent cleaning to reduce fire hazards, improve efficiency, and protect families in Fort Worth." } },
           { "@type": "Offer", "name": "Smoke chamber parging", "itemOffered": { "@type": "Service", "serviceType": "Smoke chamber parging", "areaServed": "Fort Worth TX" } },
           { "@type": "Offer", "name": "Water sealing", "itemOffered": { "@type": "Service", "serviceType": "Water sealing", "areaServed": "Fort Worth TX" } }
         ]
